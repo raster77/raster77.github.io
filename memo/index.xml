@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memos on mls</title>
+    <link>https://raster77.github.io/memo/</link>
+    <description>Recent content in Memos on mls</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2020 14:47:08 +0100</lastBuildDate>
+    
+	<atom:link href="https://raster77.github.io/memo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git memo</title>
+      <link>https://raster77.github.io/memo/git/</link>
+      <pubDate>Wed, 15 Jan 2020 14:47:08 +0100</pubDate>
+      
+      <guid>https://raster77.github.io/memo/git/</guid>
+      <description>Files status git statusBranchs list git branch -aCreate branch # 2 lines: create and checkout new branchgit branch new_branch_namegit checkout new_branch_name# 1 line: create and checkoutgit checkout -b new_branch_name</description>
+    </item>
+    
+  </channel>
+</rss>
